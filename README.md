@@ -1,1 +1,7 @@
-# Chat-Application-using-Multithreading
+chat-app/
+├── server/
+│   └── ChatServer.java
+├── client/
+│   ├── ChatClient.java
+└── utils/
+    └── (Optional utility classes)
